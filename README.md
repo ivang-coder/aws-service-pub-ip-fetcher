@@ -22,11 +22,11 @@ The script can be executed from any directory
 `python3 aws-service-pub-ip-fetcher.py`
 
 then follow the instructions on the screen by selecting the required numbered menu item and commiting by pressing "Enter" key
-### Initial menu sample
+#### Initial menu sample
 "1. Display AWS Regions"
 
 "2. Exit"
-### AWS Regions menu sample
+#### AWS Regions menu sample
 +----+----------------+
 
 | #  |   AWS Region   |
@@ -42,7 +42,7 @@ then follow the instructions on the screen by selecting the required numbered me
 | 4  | ... |
 
 +----+----------------+
-### AWS Service menu sample
+#### AWS Service menu sample
 +----+---------------------------------+
 
 | #  |           AWS Service           |
@@ -58,7 +58,7 @@ then follow the instructions on the screen by selecting the required numbered me
 | 4  | ... |
 
 +----+---------------------------------+
-### IP Prefix menu sample
+#### IP Prefix menu sample
 +-----------------+
 
 |    IP Prefix    |
